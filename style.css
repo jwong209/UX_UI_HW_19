@@ -71,7 +71,7 @@ header{
 }
 
 .hmbr{
-    display: none;
+    display: none;  
 }
 .logo{
     width: 25%;
@@ -363,8 +363,8 @@ h2{
 }
 .buttonwhite{
     background-color: #97d8bb;
-    color: #f0e934;
-    border-color: #f0e934;
+    color: green;
+    border-color: green;
 }
 .buttonwhite:hover{
     color: white;
